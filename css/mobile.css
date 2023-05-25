@@ -1,0 +1,5 @@
+/* laptop view */
+@media only screen and (min-width:767px) {
+    /* import global variables */
+    @import url(./style.css);
+}
